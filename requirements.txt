@@ -1,15 +1,11 @@
 matplotlib
 numpy
-openssl
 pandas
 pandas-datareader
 patsy
 pyparsing
-pyqt
-python
 python-dateutil
 pytz
-qt
 requests
 setuptools
 sip
